@@ -1,0 +1,33 @@
+.centrado {
+    text-align: center;
+}
+.textoazul {
+color:#005677
+}
+.espacios{
+    letter-spacing: 10px
+}
+.fondogris{
+background-color: #c4c4c4;
+}
+.timesnewroman {
+    font-family: 'Times New Roman', Times, serif;
+}.fondogrisc{
+    background-color: #e6e6e6;
+}
+.negrita{
+    font-weight: bold;
+}
+.cursiva{
+    font-style: italic;
+}
+.fuente{
+    font-family: 'Times New Roman', Times, serif;
+}
+.tab{
+        text-indent: 75px;
+} 
+.fondopie{
+    background-color: #005677;
+    color: #ffffff; 
+}
